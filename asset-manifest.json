@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task_Adding_webpage.github.io/static/css/main.043c3255.css",
+    "main.js": "/task_Adding_webpage.github.io/static/js/main.478b35af.js",
+    "index.html": "/task_Adding_webpage.github.io/index.html",
+    "main.043c3255.css.map": "/task_Adding_webpage.github.io/static/css/main.043c3255.css.map",
+    "main.478b35af.js.map": "/task_Adding_webpage.github.io/static/js/main.478b35af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.043c3255.css",
+    "static/js/main.478b35af.js"
+  ]
+}
